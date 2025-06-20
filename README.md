@@ -110,5 +110,7 @@ User Reputation: Community standing and contribution tracking
 
 
 The Blockchain Memory Palace represents a new paradigm in digital memory preservation, combining the permanence of blockchain with the emotional significance of place-based memories. Join us in building a decentralized repository of human experience that will persist for generations.
+contract address:0xA9a913460F87C6A11AA160D11340595345247ED4
+
 ![Screenshot 2025-06-20 110811](https://github.com/user-attachments/assets/02f0f73b-a277-42fe-a7ee-34949cefd662)
 
